@@ -1,0 +1,238 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    background: url("http://www.sdau.edu.cn/_upload/article/images/af/5b/7b866780465faa00747a45f4f437/9f2cee45-22a2-4960-ad98-2bf56f231878.jpg");
+    /* background: url("http://www.sdau.edu.cn/_upload/tpl/00/67/103/template103/images/banner.jpg"); */
+    background-size: 100% 500px;
+    background-repeat: no-repeat;
+    filter: blur(5px);
+    margin-top: -500px;
+    z-index: -1;
+}
+.middle{
+    display: -webkit-flex; /* Safari */
+    display: flex; 
+    width: 1000px;
+    height: 500px;
+    /* justify-content: center; */
+    /* background: bisque; */
+    margin:0 auto;
+    /* margin-top: -500px; */
+}
+.sdau{
+    width: 400px;
+    height: 100px;
+    background: url("http://www.sdau.edu.cn/_upload/tpl/00/67/103/template103/images/logo.png");
+    background-size: 380px 110px;
+    background-repeat: no-repeat;
+}
+.tittle{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 150px;
+    float: left;
+    width: 700px;
+    height: 160px;
+    background-image: url("../image/农药经营者培训.png");
+    background-size: 100% 100%;
+}
+.header-border{
+    width: 100%;
+    height: 30px;
+    background: rgba(200, 200,200, 0.7);
+    margin-top: -26px;
+}
+.m{
+    width: 100%;
+    height: 410px;
+    background: rgb(225, 250, 212);
+}
+.main{
+    display: -webkit-flex; /* Safari */
+    display: flex; 
+    width: 1000px;
+    height: 250px;
+    margin:0 auto;
+    /* background: chartreuse; */
+    padding-top: 90px;
+}
+.learn{
+    width: 300px;
+    height: 200px;
+}
+.inner{
+    height: 50px;
+    width: 150px;
+}
+.inner0{
+    margin: 20px;
+}
+.inner1,
+.inner2{
+    margin-top: 30px;
+}
+.inner3{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 320px;
+}
+.inner4{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 510px;
+}
+.new{
+    width: 300px;
+    height: 200px;
+    padding-left: 10px;
+    background: #fff;
+    border: lightgrey;
+}
+.new ul{
+    margin-top: 15px;
+    margin-left: 30px;
+    font-size: 18px;
+}
+.news{
+    font-size: 20px;
+    margin-top: 10px;
+}
+hr{
+    width: 100%;
+    height: 2px;
+    background: #000;
+    border: none;
+}
+#footer{
+    box-shadow: 0 0 10px black;
+    position: relative;
+    padding-top: 50px;
+    background-color: #24292e;
+    height: 120px;
+    width: 100%;
+    float: left;
+}
+.footer_content{
+    position: absolute;
+    left: 10%;
+    width: 40%;
+    text-align: left;
+    color: #999999;
+}
+#footer img{
+    position: absolute;
+    top:20px;
+    left: 47%;
+    width: 100px;
+    height: 100px;
+}
+#beian{
+    font-family: Arial;
+    position: absolute;
+    display: inline-block;
+    top:120px;
+    left: 47%;
+    font-size: 12px;
+    color: #777777;
+}
+#qihang{
+    position: absolute;
+    right: 10%;
+    top:50px;
+    width: auto;
+    text-align: right;
+}
+.footer_img{
+    float: left;
+    width: 100%;
+    height: 300px;
+    background-image: url("img/building_1.jpg");
+    background-size: cover;
+}
+.span{
+    width: 100%;
+    height: 200px;
+    text-align:center;
+}
+.div{
+    margin: 10px;
+}
+.head{
+    margin: 10px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.mid{
+    
+    width: 800px;
+    
+    margin:0 auto;
+    /* background: chartreuse; */
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.p{
+    text-indet：25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+.t{
+    text-align:center;
+    margin: 10px;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.new ul li a{
+    color: #000;
+}
+.m4{
+    width: 400px;
+    
+    margin:0 auto;
+    /* background: chartreuse; */
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.h{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+table,
+tr,
+td{
+    padding: 0;
+    margin: 0;
+    border-spacing: 0;
+}
+table{
+    width: 100%;
+}
+td{
+    width: 25%;
+    text-align: center;
+}
+td a{
+    color: #000;
+    text-decoration: none
+}
+.m3{
+    width: 600px;
+    
+    margin:0 auto;
+    /* background: chartreuse; */
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}

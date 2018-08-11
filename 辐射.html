@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <style media="screen">
+        .div {
+            margin: auto;
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            background: #000;
+            width: 200px;
+            height: 200px;
+            border-radius: 100px;
+            overflow: hidden;
+        }
+
+        .div0 {
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            border-radius: 0 0 100px 0;
+            background: rgb(243, 222, 42);
+            margin-left: 100px;
+            margin-top: 100px;
+            -webkit-clip-path: polygon(0% 0%, 100% 0, 100% 100%);
+            clip-path: polygon(0% 0%, 100% 0, 100% 100%);
+            transform-origin: 0px 0px;
+        }
+
+        .div1 {
+            transform: rotate(0deg);
+        }
+
+        .div2 {
+            transform: rotate(15deg);
+        }
+
+        .div3 {
+            transform: rotate(120deg);
+        }
+
+        .div4 {
+            transform: rotate(135deg);
+        }
+
+        .div5 {
+            transform: rotate(240deg);
+        }
+
+        .div6 {
+            transform: rotate(255deg);
+        }
+
+        .sector {
+            margin-left: 100px;
+            margin-top: 100px;
+            height: 100px;
+            width: 100px;
+            border-radius: 0 0 100px 0;
+            /*overflow: hidden;*/
+            transform-origin: 0 0;
+            transform: skew(30deg);
+            position: absolute;
+            background: #cccccc;
+        }
+    </style>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="div">
+        <div class="div0 div1"></div>
+        <div class="div0 div2"></div>
+        <div class="div0 div3"></div>
+        <div class="div0 div4"></div>
+        <div class="div0 div5"></div>
+        <div class="div0 div6"></div>
+    </div>
+
+</body>
+
+</html>
