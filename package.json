@@ -20,5 +20,8 @@
   "homepage": "https://github.com/JohnNine/DEMO#readme",
   "devDependencies": {
     "jest": "^23.6.0"
+  },
+  "babel": {
+    // "presets": ["env"]
   }
 }
