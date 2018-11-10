@@ -12,6 +12,8 @@
         +
         <input class="input" v-model="b" type="number">
         ={{c}}
+        
+        
     </div>
 </template>
 
@@ -89,5 +91,6 @@
 <style scoped>
     .input{
         width: 50px;
+        color: #000;
     }
 </style>
