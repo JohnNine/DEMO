@@ -1,12 +1,12 @@
 <template>
   <div id="app">
-    <HelloWorld />
+    <father />
     <im />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import father from './components/father.vue'
 import im from './components/im.vue'
 import './components/n.js'
 import './components/m.js'
@@ -14,7 +14,7 @@ import './components/m.js'
 export default {
   name: 'app',
   components: {
-    HelloWorld,
+    father,
     im
   }
 }
