@@ -5,6 +5,14 @@ const json = require('koa-json')
 const onerror = require('koa-onerror')
 const bodyparser = require('koa-bodyparser')
 const logger = require('koa-logger')
+const pv = require('./middleware/koa-pv')
+const m1 = require('./middleware/m1')
+const m2 = require('./middleware/m2')
+const m3 = require('./middleware/m3')
+
+// mongodb
+const mongoose = require('mongoose')
+const dbConfig = require('./dbs/config')
 
 const index = require('./routes/index')
 const users = require('./routes/users')
@@ -12,15 +20,26 @@ const users = require('./routes/users')
 // error handler
 onerror(app)
 
-const a = {
-  key1: Symbol(),
-  key2: 10, 
-}
-console.log(JSON.stringify(a))
+// const a = {
+//   key1: Symbol(),
+//   key2: 10, 
+// }
+// console.log(JSON.stringify(a))
+
+// Array.prototype.multiply = function () {
+//   a.forEach(b=>{
+//     a.push(b*b)
+//     console.log(a)
+//   })
+// }
 // middlewares
 app.use(bodyparser({
   enableTypes:['json', 'form', 'text']
 }))
+app.use(pv())
+app.use(m1())
+app.use(m2())
+app.use(m3())
 app.use(json())
 app.use(logger())
 app.use(require('koa-static')(__dirname + '/public'))
@@ -28,6 +47,11 @@ app.use(require('koa-static')(__dirname + '/public'))
 app.use(views(__dirname + '/views', {
   extension: 'ejs'
 }))
+
+//mongose
+mongoose.connect(dbConfig.dbs, {
+  useNewUrlParser: true,
+})
 
 // logger
 app.use(async (ctx, next) => {
