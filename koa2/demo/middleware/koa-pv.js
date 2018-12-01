@@ -1,4 +1,5 @@
 function pv(ctx){
+    ctx.session.count++
     console.log('pv', ctx.path)
 }
 

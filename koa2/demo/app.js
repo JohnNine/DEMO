@@ -5,6 +5,8 @@ const json = require('koa-json')
 const onerror = require('koa-onerror')
 const bodyparser = require('koa-bodyparser')
 const logger = require('koa-logger')
+const session = require('koa-generic-session')
+const Redis = require('koa-redis')
 const pv = require('./middleware/koa-pv')
 const m1 = require('./middleware/m1')
 const m2 = require('./middleware/m2')
@@ -36,6 +38,13 @@ onerror(app)
 app.use(bodyparser({
   enableTypes:['json', 'form', 'text']
 }))
+app.use(session({
+  key: 'mt',
+  prefix: '???',
+  store: new Redis()
+}))
+// console.log(session,Redis)
+app.keys = ['key','keys']
 app.use(pv())
 app.use(m1())
 app.use(m2())
