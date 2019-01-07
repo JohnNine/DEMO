@@ -1,27 +1,34 @@
 <template>
-  <div class="container">请输入
-    <div class="text">
-      <textarea v-model="text" type="text"></textarea>
-      <div class="contain">{{text}}</div>
+    <div class="page-index">
+        <el-row>
+            <el-col :span="5">
+                <emenu/>
+            </el-col>
+            <el-col :span="19">
+                <life/>
+            </el-col>
+        </el-row>
+        <el-row>
+            <el-col :span="24">
+                <artistic/>
+            </el-col>
+        </el-row>
     </div>
-  </div>
 </template>
 
-<script>
-import Logo from '~/components/Logo.vue'
-
+// <script>
+import Emenu from '@/components/index/menu.vue'
+import Life from '@/components/index/life.vue'
+import Artistic from '@/components/index/artistic.vue'
 export default {
-  data() {
-    return {
-      text: '',
-      text2: ''
-    }
-  },
-  components: {
-    Logo
-  }
+	components: {
+		Emenu,
+		Life,
+		Artistic
+	}
 }
 </script>
-<style lang="scss" scoped>
-</style>
 
+<style lang="scss">
+@import '@/assets/css/index/index.scss';
+</style>
