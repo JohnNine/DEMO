@@ -11,6 +11,8 @@ lib/
 
 # misc
 .idea/
+.vscode/
+*/.vscode/
 .happypack
 .DS_Store
 *.swp
