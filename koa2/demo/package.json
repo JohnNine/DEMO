@@ -22,7 +22,8 @@
     "koa-router": "^7.1.1",
     "koa-static": "^3.0.0",
     "koa-views": "^5.2.1",
-    "mongoose": "^5.3.14"
+    "mongoose": "^5.3.14",
+    "qiniu": "^7.2.1"
   },
   "devDependencies": {
     "nodemon": "^1.8.1"
