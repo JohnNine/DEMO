@@ -1,0 +1,60 @@
+PING speedtest.newark.linode.com (50.116.57.237): 56 data bytes
+
+--- speedtest.newark.linode.com ping statistics ---
+30 packets transmitted, 29 packets received, 3.3% packet loss
+round-trip min/avg/max/stddev = 287.821/348.184/579.645/69.026 ms
+
+PING speedtest.atlanta.linode.com (50.116.39.117): 56 data bytes
+
+--- speedtest.atlanta.linode.com ping statistics ---
+30 packets transmitted, 25 packets received, 16.7% packet loss
+round-trip min/avg/max/stddev = 237.561/281.647/370.575/33.858 ms
+
+PING speedtest.dallas.linode.com (50.116.25.154): 56 data bytes
+
+--- speedtest.dallas.linode.com ping statistics ---
+30 packets transmitted, 24 packets received, 20.0% packet loss
+round-trip min/avg/max/stddev = 333.617/411.176/549.244/51.937 ms
+
+PING speedtest.fremont.linode.com (50.116.14.9): 56 data bytes
+
+--- speedtest.fremont.linode.com ping statistics ---
+30 packets transmitted, 27 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 189.610/344.719/502.404/61.026 ms
+
+PING speedtest.tor1.linode.com (172.105.30.21): 56 data bytes
+
+--- speedtest.tor1.linode.com ping statistics ---
+30 packets transmitted, 30 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 278.352/336.263/489.343/50.926 ms
+
+PING speedtest.frankfurt.linode.com (139.162.130.8): 56 data bytes
+
+--- speedtest.frankfurt.linode.com ping statistics ---
+30 packets transmitted, 26 packets received, 13.3% packet loss
+round-trip min/avg/max/stddev = 276.719/332.498/486.018/47.787 ms
+
+PING speedtest.london.linode.com (176.58.107.39): 56 data bytes
+
+--- speedtest.london.linode.com ping statistics ---
+30 packets transmitted, 30 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 253.948/317.519/481.786/59.090 ms
+
+PING speedtest.singapore.linode.com (139.162.23.4): 56 data bytes
+
+--- speedtest.singapore.linode.com ping statistics ---
+30 packets transmitted, 21 packets received, 30.0% packet loss
+round-trip min/avg/max/stddev = 219.045/274.481/356.003/34.101 ms
+
+PING speedtest.shg1.linode.com (139.162.65.37): 56 data bytes
+
+--- speedtest.shg1.linode.com ping statistics ---
+30 packets transmitted, 24 packets received, 20.0% packet loss
+round-trip min/avg/max/stddev = 142.674/174.437/219.084/15.466 ms
+
+PING speedtest.mum1.linode.com (172.105.33.31): 56 data bytes
+
+--- speedtest.mum1.linode.com ping statistics ---
+30 packets transmitted, 29 packets received, 3.3% packet loss
+round-trip min/avg/max/stddev = 138.361/216.380/436.959/91.386 ms
+

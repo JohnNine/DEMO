@@ -1,0 +1,387 @@
+PRODUCT SYMBOL,CONTRACT MONTH,CONTRACT YEAR,CONTRACT DAY,CONTRACT,PRODUCT DESCRIPTION,OPEN,HIGH,HIGH AB INDICATOR,LOW,LOW AB INDICATOR,LAST,LAST AB INDICATOR,SETTLE,PT CHG,EST. VOL,PRIOR SETTLE,PRIOR VOL,PRIOR INT,TRADEDATE
+0GC,01,2020,,0GCF20,Test Gold,1515.9,1515.9,,1515.9,,1515.9,,,0,10,,,,08/30/2019
+A38,08,2019,,A38Q19,Aluminium A-380 Alloy (platts) Futures,,,,,,,,.68667,-.00083,0,.68750,,25,08/30/2019
+A38,09,2019,,A38U19,Aluminium A-380 Alloy (platts) Futures,,,,,,,,.71000,UNCH,0,.71000,,25,08/30/2019
+A38,10,2019,,A38V19,Aluminium A-380 Alloy (platts) Futures,,,,,,,,.73000,UNCH,0,.73000,,10,08/30/2019
+A38,11,2019,,A38X19,Aluminium A-380 Alloy (platts) Futures,,,,,,,,.73000,UNCH,0,.73000,,10,08/30/2019
+A38,12,2019,,A38Z19,Aluminium A-380 Alloy (platts) Futures,,,,,,,,.73000,UNCH,0,.73000,,8,08/30/2019
+AEP,08,2019,,AEPQ19,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,102.86,UNCH,0,102.86,,1207,08/30/2019
+AEP,09,2019,,AEPU19,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,98.00,UNCH,0,98.00,,1238,08/30/2019
+AEP,10,2019,,AEPV19,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,98.00,UNCH,0,98.00,185,958,08/30/2019
+AEP,11,2019,,AEPX19,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,98.00,UNCH,0,98.00,125,723,08/30/2019
+AEP,12,2019,,AEPZ19,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,98.00,UNCH,0,98.00,125,703,08/30/2019
+AEP,01,2020,,AEPF20,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,100.00,UNCH,0,100.00,,235,08/30/2019
+AEP,02,2020,,AEPG20,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,100.00,UNCH,0,100.00,,235,08/30/2019
+AEP,03,2020,,AEPH20,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,100.00,UNCH,0,100.00,,235,08/30/2019
+AEP,04,2020,,AEPJ20,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,100.00,UNCH,0,100.00,,235,08/30/2019
+AEP,05,2020,,AEPK20,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,100.00,UNCH,0,100.00,,238,08/30/2019
+AEP,06,2020,,AEPM20,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,100.00,UNCH,0,100.00,,245,08/30/2019
+AEP,07,2020,,AEPN20,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,100.00,UNCH,0,100.00,,276,08/30/2019
+AEP,08,2020,,AEPQ20,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,100.00,UNCH,0,100.00,,259,08/30/2019
+AEP,09,2020,,AEPU20,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,100.00,UNCH,0,100.00,,383,08/30/2019
+AEP,10,2020,,AEPV20,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,100.00,UNCH,0,100.00,,298,08/30/2019
+AEP,11,2020,,AEPX20,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,100.00,UNCH,0,100.00,,266,08/30/2019
+AEP,12,2020,,AEPZ20,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,100.00,UNCH,0,100.00,,369,08/30/2019
+AEP,01,2021,,AEPF21,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,105.00,UNCH,0,105.00,,268,08/30/2019
+AEP,02,2021,,AEPG21,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,105.00,UNCH,0,105.00,,303,08/30/2019
+AEP,03,2021,,AEPH21,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,105.00,UNCH,0,105.00,,292,08/30/2019
+AEP,04,2021,,AEPJ21,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,105.00,UNCH,0,105.00,,263,08/30/2019
+AEP,05,2021,,AEPK21,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,105.00,UNCH,0,105.00,,185,08/30/2019
+AEP,06,2021,,AEPM21,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,105.00,UNCH,0,105.00,,93,08/30/2019
+AEP,07,2021,,AEPN21,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,105.00,UNCH,0,105.00,,64,08/30/2019
+AEP,08,2021,,AEPQ21,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,105.00,UNCH,0,105.00,,1,08/30/2019
+AEP,09,2021,,AEPU21,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,105.00,UNCH,0,105.00,,24,08/30/2019
+AEP,10,2021,,AEPV21,Aluminium European Premium Metal Bulletin (25mt-du,,,,,,,,105.00,UNCH,0,105.00,,23,08/30/2019
+ALA,08,2019,,ALAQ19,Alumina Fob Australia (platts) Futures,,,,,,,,298.58,UNCH,0,298.58,,100,08/30/2019
+ALA,09,2019,,ALAU19,Alumina Fob Australia (platts) Futures,,,,,,,,360.00,UNCH,0,360.00,,100,08/30/2019
+ALA,10,2019,,ALAV19,Alumina Fob Australia (platts) Futures,,,,,,,,300.00,UNCH,0,300.00,,65,08/30/2019
+ALA,11,2019,,ALAX19,Alumina Fob Australia (platts) Futures,,,,,,,,300.00,UNCH,0,300.00,,65,08/30/2019
+ALA,12,2019,,ALAZ19,Alumina Fob Australia (platts) Futures,,,,,,,,300.00,UNCH,0,300.00,,65,08/30/2019
+ALI,09,2019,,ALIU19,Physical Aluminum Futures,,,,,,,,1758.00,-1.00,0,1759.00,,76,08/30/2019
+ALI,10,2019,,ALIV19,Physical Aluminum Futures,,,,,,,,1758.00,-1.00,0,1759.00,,142,08/30/2019
+ALI,11,2019,,ALIX19,Physical Aluminum Futures,1755.50,1765.50,B,1748.00,A,1764.50,B,1762.50,-1.00,25,1763.50,58,44,08/30/2019
+ALI,12,2019,,ALIZ19,Physical Aluminum Futures,,,,,,,,1766.75,-1.00,0,1767.75,,7,08/30/2019
+ALI,01,2020,,ALIF20,Physical Aluminum Futures,,,,,,,,1770.75,-1.00,0,1771.75,,7,08/30/2019
+ALI,02,2020,,ALIG20,Physical Aluminum Futures,,,,,,,,1770.75,-1.00,0,1771.75,,,08/30/2019
+ALI,03,2020,,ALIH20,Physical Aluminum Futures,,,,,,,,1770.75,-1.00,0,1771.75,,,08/30/2019
+ALI,04,2020,,ALIJ20,Physical Aluminum Futures,,,,,,,,1770.75,-1.00,0,1771.75,,,08/30/2019
+ALI,05,2020,,ALIK20,Physical Aluminum Futures,,,,,,,,1770.75,-1.00,0,1771.75,,,08/30/2019
+ALI,06,2020,,ALIM20,Physical Aluminum Futures,,,,,,,,1790.00,-1.00,0,1791.00,,,08/30/2019
+ALI,07,2020,,ALIN20,Physical Aluminum Futures,,,,,,,,1790.00,-1.00,0,1791.00,,,08/30/2019
+ALI,08,2020,,ALIQ20,Physical Aluminum Futures,,,,,,,,1790.00,-1.00,0,1791.00,,,08/30/2019
+ALI,09,2020,,ALIU20,Physical Aluminum Futures,,,,,,,,1790.00,-1.00,0,1791.00,,,08/30/2019
+ALI,10,2020,,ALIV20,Physical Aluminum Futures,,,,,,,,1790.00,-1.00,0,1791.00,,,08/30/2019
+ALI,11,2020,,ALIX20,Physical Aluminum Futures,,,,,,,,1790.00,-1.00,0,1791.00,,,08/30/2019
+ALI,12,2020,,ALIZ20,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+ALI,01,2021,,ALIF21,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+ALI,02,2021,,ALIG21,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+ALI,03,2021,,ALIH21,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+ALI,04,2021,,ALIJ21,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+ALI,05,2021,,ALIK21,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+ALI,06,2021,,ALIM21,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+ALI,07,2021,,ALIN21,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+ALI,08,2021,,ALIQ21,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+ALI,09,2021,,ALIU21,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+ALI,10,2021,,ALIV21,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+ALI,11,2021,,ALIX21,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+ALI,12,2021,,ALIZ21,Physical Aluminum Futures,,,,,,,,1839.00,-1.00,0,1840.00,,,08/30/2019
+AUP,08,2019,,AUPQ19,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17579,+.00008,0,.17571,,3558,08/30/2019
+AUP,09,2019,,AUPU19,Aluminum Mw U.s. Transaction Premium Platts (25mt),,.17500,B,,,.17500,B,.17500,+.00100,100,.17400,75,3248,08/30/2019
+AUP,10,2019,,AUPV19,Aluminum Mw U.s. Transaction Premium Platts (25mt),,.17500,B,,,.17500,B,.17500,+.00100,90,.17400,,2815,08/30/2019
+AUP,11,2019,,AUPX19,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17400,UNCH,40,.17400,,2570,08/30/2019
+AUP,12,2019,,AUPZ19,Aluminum Mw U.s. Transaction Premium Platts (25mt),.17400,.17400,,.17400,,.17400,,.17400,UNCH,50,.17400,,2516,08/30/2019
+AUP,01,2020,,AUPF20,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17250,UNCH,0,.17250,5,1633,08/30/2019
+AUP,02,2020,,AUPG20,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17250,UNCH,0,.17250,5,1392,08/30/2019
+AUP,03,2020,,AUPH20,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17250,UNCH,0,.17250,42,1359,08/30/2019
+AUP,04,2020,,AUPJ20,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17200,+.00150,0,.17050,17,1047,08/30/2019
+AUP,05,2020,,AUPK20,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17200,+.00150,0,.17050,17,1047,08/30/2019
+AUP,06,2020,,AUPM20,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17200,+.00150,0,.17050,17,1017,08/30/2019
+AUP,07,2020,,AUPN20,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17200,+.00150,0,.17050,12,264,08/30/2019
+AUP,08,2020,,AUPQ20,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17150,+.00100,0,.17050,12,289,08/30/2019
+AUP,09,2020,,AUPU20,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17150,+.00100,0,.17050,,257,08/30/2019
+AUP,10,2020,,AUPV20,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17150,+.00100,0,.17050,,281,08/30/2019
+AUP,11,2020,,AUPX20,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17150,+.00100,0,.17050,,281,08/30/2019
+AUP,12,2020,,AUPZ20,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.17150,+.00100,0,.17050,,272,08/30/2019
+AUP,01,2021,,AUPF21,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.16050,UNCH,0,.16050,,10,08/30/2019
+AUP,02,2021,,AUPG21,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.16050,UNCH,0,.16050,,10,08/30/2019
+AUP,03,2021,,AUPH21,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.16050,UNCH,0,.16050,,10,08/30/2019
+AUP,04,2021,,AUPJ21,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.16050,UNCH,0,.16050,,28,08/30/2019
+AUP,05,2021,,AUPK21,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.16050,UNCH,0,.16050,,28,08/30/2019
+AUP,06,2021,,AUPM21,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.16050,UNCH,0,.16050,,28,08/30/2019
+AUP,07,2021,,AUPN21,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.16050,UNCH,0,.16050,,28,08/30/2019
+AUP,08,2021,,AUPQ21,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.16050,UNCH,0,.16050,,10,08/30/2019
+AUP,09,2021,,AUPU21,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.16050,UNCH,0,.16050,,10,08/30/2019
+AUP,10,2021,,AUPV21,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.16050,UNCH,0,.16050,,10,08/30/2019
+AUP,11,2021,,AUPX21,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.16050,UNCH,0,.16050,,10,08/30/2019
+AUP,12,2021,,AUPZ21,Aluminum Mw U.s. Transaction Premium Platts (25mt),,,,,,,,.16050,UNCH,0,.16050,,10,08/30/2019
+EDP,08,2019,,EDPQ19,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,153.89,+.14,0,153.75,,907,08/30/2019
+EDP,09,2019,,EDPU19,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,157.00,UNCH,0,157.00,,905,08/30/2019
+EDP,10,2019,,EDPV19,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,157.00,UNCH,0,157.00,,940,08/30/2019
+EDP,11,2019,,EDPX19,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,162.00,UNCH,0,162.00,,980,08/30/2019
+EDP,12,2019,,EDPZ19,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,162.00,UNCH,0,162.00,,980,08/30/2019
+EDP,01,2020,,EDPF20,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,164.00,UNCH,0,164.00,,492,08/30/2019
+EDP,02,2020,,EDPG20,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,164.00,UNCH,0,164.00,,492,08/30/2019
+EDP,03,2020,,EDPH20,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,164.00,UNCH,0,164.00,,492,08/30/2019
+EDP,04,2020,,EDPJ20,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,164.00,UNCH,0,164.00,,492,08/30/2019
+EDP,05,2020,,EDPK20,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,164.00,UNCH,0,164.00,,492,08/30/2019
+EDP,06,2020,,EDPM20,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,164.00,UNCH,0,164.00,,492,08/30/2019
+EDP,07,2020,,EDPN20,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,164.00,UNCH,0,164.00,,492,08/30/2019
+EDP,08,2020,,EDPQ20,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,164.00,UNCH,0,164.00,,492,08/30/2019
+EDP,09,2020,,EDPU20,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,164.00,UNCH,0,164.00,,492,08/30/2019
+EDP,10,2020,,EDPV20,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,164.00,UNCH,0,164.00,,492,08/30/2019
+EDP,11,2020,,EDPX20,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,164.00,UNCH,0,164.00,,452,08/30/2019
+EDP,12,2020,,EDPZ20,Aluminium European Premium Duty-paid (metal Bullet,,,,,,,,164.00,UNCH,0,164.00,,452,08/30/2019
+GC,09,2019,,GCU19,Gold Futures,1524.6,1530.4,,1516.7,,1522.1,B,1519.1,-7.4,276,1526.5,704,1384,08/30/2019
+GC,10,2019,,GCV19,Gold Futures,1530.6,1535.7,,1519.3,,1523.0,,1523.0,-7.5,6279,1530.5,16569,45055,08/30/2019
+GC,11,2019,,GCX19,Gold Futures,,,,,,,,1526.2,-7.5,0,1533.7,,,08/30/2019
+GC,12,2019,,GCZ19,Gold Futures,1536.9,1541.9,,1525.6,,1529.2,,1529.4,-7.5,332525,1536.9,455595,461440,08/30/2019
+GC,02,2020,,GCG20,Gold Futures,1542.9,1547.8,,1532.6,,1535.4,,1535.7,-7.3,14245,1543.0,3743,50988,08/30/2019
+GC,04,2020,,GCJ20,Gold Futures,1548.1,1552.8,B,1539.9,,1542.3,,1541.0,-7.2,1692,1548.2,2517,28273,08/30/2019
+GC,06,2020,,GCM20,Gold Futures,1551.9,1555.8,,1543.3,,1544.0,B,1545.5,-7.1,1338,1552.6,901,22734,08/30/2019
+GC,08,2020,,GCQ20,Gold Futures,1554.7,1560.8,,1554.6,,1560.8,,1549.7,-7.0,477,1556.7,169,3735,08/30/2019
+GC,10,2020,,GCV20,Gold Futures,1558.9,1563.7,,1553.2,,1553.2,,1553.6,-6.9,33,1560.5,4,367,08/30/2019
+GC,12,2020,,GCZ20,Gold Futures,1564.1,1566.9,,1555.0,,1559.8,,1557.2,-6.8,447,1564.0,248,3613,08/30/2019
+GC,02,2021,,GCG21,Gold Futures,,,,,,,,1560.4,-6.8,0,1567.2,1,29,08/30/2019
+GC,04,2021,,GCJ21,Gold Futures,,,,,,,,1563.1,-6.8,0,1569.9,,,08/30/2019
+GC,06,2021,,GCM21,Gold Futures,,,,,,,,1565.7,-6.8,10,1572.5,50,801,08/30/2019
+GC,12,2021,,GCZ21,Gold Futures,,,,,,,,1574.2,-6.8,15,1581.0,100,465,08/30/2019
+GC,06,2022,,GCM22,Gold Futures,,,,,,,,1581.4,-6.8,0,1588.2,,6,08/30/2019
+GC,12,2022,,GCZ22,Gold Futures,,,,,,,,1588.9,-6.8,0,1595.7,5,44,08/30/2019
+GC,06,2023,,GCM23,Gold Futures,,,,,,,,1596.0,-6.8,0,1602.8,,5,08/30/2019
+GC,12,2023,,GCZ23,Gold Futures,,,,,,,,1603.9,-6.8,0,1610.7,,2,08/30/2019
+GC,06,2024,,GCM24,Gold Futures,,,,,,,,1611.9,-6.8,0,1618.7,,1,08/30/2019
+GC,12,2024,,GCZ24,Gold Futures,,,,,,,,1620.0,-6.8,0,1626.8,,3,08/30/2019
+GC,06,2025,,GCM25,Gold Futures,,,,,,,,1631.1,-6.8,0,1637.9,,1,08/30/2019
+GC7,12,2019,,GC7Z19,Gold London Gcd Mrkr,,,,,,,,1537.9,0,0,,,,08/30/2019
+GCK,09,2019,,GCKU19,Kilo Gold Futures,,,,,,,,1317.8,UNCH,0,1317.8,,,08/30/2019
+GCK,10,2019,,GCKV19,Kilo Gold Futures,,,,,,,,1320.9,UNCH,0,1320.9,,,08/30/2019
+GCK,11,2019,,GCKX19,Kilo Gold Futures,,,,,,,,1324.0,UNCH,0,1324.0,,,08/30/2019
+GCK,12,2019,,GCKZ19,Kilo Gold Futures,,,,,,,,1327.1,UNCH,0,1327.1,,,08/30/2019
+GCK,02,2020,,GCKG20,Kilo Gold Futures,,,,,,,,1333.5,UNCH,0,1333.5,,,08/30/2019
+GCK,04,2020,,GCKJ20,Kilo Gold Futures,,,,,,,,1339.5,UNCH,0,1339.5,,,08/30/2019
+GCK,06,2020,,GCKM20,Kilo Gold Futures,,,,,,,,1343.0,UNCH,0,1343.0,,,08/30/2019
+GCK,08,2020,,GCKQ20,Kilo Gold Futures,,,,,,,,1346.9,UNCH,0,1346.9,,,08/30/2019
+GCT,12,2019,,GCTZ19,Gold Tas Futures,.0,.2,B,-.3,,.2,B,.0,UNCH,1676,.0,,,08/30/2019
+GCT,02,2020,,GCTG20,Gold Tas Futures,.0,.1,B,-.2,,.1,B,.0,UNCH,107,.0,,,08/30/2019
+GCT,04,2020,,GCTJ20,Gold Tas Futures,,,,-.3,,.0,B,.0,UNCH,0,.0,,,08/30/2019
+GCT,06,2020,,GCTM20,Gold Tas Futures,,,,,,,,.0,UNCH,0,.0,,,08/30/2019
+GPS,10,2019,,GPSV19,Gold/platinum Spread Futures,,,,,,,,600.70,-15.70,0,616.40,,,08/30/2019
+GPS,12,2019,,GPSZ19,Gold/platinum Spread Futures,,,,,,,,595.50,-15.60,0,611.10,,,08/30/2019
+GSP,09,2019,03,GSPU19 D03,Sep 19 London Spot Gold,,,,,,,,1520.60,-7.90,0,1528.50,,,08/30/2019
+GSP,09,2019,05,GSPU19 D05,Sep 19 London Spot Gold,,,,,,,,1520.60,-7.90,0,1528.50,,,08/30/2019
+GSR,12,2019,,GSRZ19,Gold/silver Ratio Futures,,,,,,,,83.45,-.35,0,83.80,,,08/30/2019
+GSR,02,2020,,GSRG20,Gold/silver Ratio Futures,,,,,,,,83.25,-.30,0,83.55,,,08/30/2019
+HG,09,2019,,HGU19,Copper Futures,2.5600,2.5630,,2.5295,,2.5365,,2.5330,-.0265,2202,2.5595,16954,5366,08/30/2019
+HG,10,2019,,HGV19,Copper Futures,2.5665,2.5700,B,2.5340,,2.5445,,2.5405,-.0265,456,2.5670,2602,3507,08/30/2019
+HG,11,2019,,HGX19,Copper Futures,2.5720,2.5770,,2.5445,,2.5445,,2.5470,-.0265,325,2.5735,2563,2418,08/30/2019
+HG,12,2019,,HGZ19,Copper Futures,2.5750,2.5835,,2.5460,,2.5570,,2.5515,-.0260,62708,2.5775,70756,183231,08/30/2019
+HG,01,2020,,HGF20,Copper Futures,2.5570,2.5630,,2.5570,,2.5630,,2.5580,-.0255,11,2.5835,33,1360,08/30/2019
+HG,02,2020,,HGG20,Copper Futures,2.5650,2.5665,,2.5595,,2.5665,,2.5610,-.0255,27,2.5865,26,1069,08/30/2019
+HG,03,2020,,HGH20,Copper Futures,2.5855,2.5920,,2.5565,A,2.5655,,2.5615,-.0250,7069,2.5865,6745,38546,08/30/2019
+HG,04,2020,,HGJ20,Copper Futures,2.5855,2.5855,,2.5655,,2.5710,,2.5660,-.0245,169,2.5905,27,387,08/30/2019
+HG,05,2020,,HGK20,Copper Futures,2.5795,2.5960,B,2.5645,A,2.5725,,2.5680,-.0240,2365,2.5920,1758,11905,08/30/2019
+HG,06,2020,,HGM20,Copper Futures,2.5925,2.5925,,2.5730,,2.5785,,2.5735,-.0235,127,2.5970,16,242,08/30/2019
+HG,07,2020,,HGN20,Copper Futures,2.5965,2.5965,,2.5745,A,2.5755,,2.5755,-.0235,388,2.5990,666,3546,08/30/2019
+HG,08,2020,,HGQ20,Copper Futures,,,,2.6030,A,2.6030,A,2.5815,-.0235,0,2.6050,2,111,08/30/2019
+HG,09,2020,,HGU20,Copper Futures,,,,2.6060,A,2.6060,A,2.5845,-.0235,215,2.6080,220,1327,08/30/2019
+HG,10,2020,,HGV20,Copper Futures,2.5855,2.5855,,2.5855,,2.5855,,2.5895,-.0235,16,2.6130,,65,08/30/2019
+HG,11,2020,,HGX20,Copper Futures,,,,,,,,2.5945,-.0225,0,2.6170,,32,08/30/2019
+HG,12,2020,,HGZ20,Copper Futures,2.6000,2.6000,,2.6000,,2.6000,,2.5950,-.0240,59,2.6190,145,1419,08/30/2019
+HG,01,2021,,HGF21,Copper Futures,,,,2.6225,A,2.6225,A,2.6000,-.0240,0,2.6240,,46,08/30/2019
+HG,02,2021,,HGG21,Copper Futures,,,,,,,,2.6035,-.0240,0,2.6275,,7,08/30/2019
+HG,03,2021,,HGH21,Copper Futures,,,,2.6250,A,2.6250,A,2.6040,-.0240,0,2.6280,,100,08/30/2019
+HG,04,2021,,HGJ21,Copper Futures,,,,,,,,2.6045,-.0240,0,2.6285,,,08/30/2019
+HG,05,2021,,HGK21,Copper Futures,,,,,,,,2.6080,-.0240,0,2.6320,,2,08/30/2019
+HG,06,2021,,HGM21,Copper Futures,,,,,,,,2.6105,-.0240,0,2.6345,,,08/30/2019
+HG,07,2021,,HGN21,Copper Futures,,,,,,,,2.6120,-.0240,0,2.6360,,3,08/30/2019
+HG,08,2021,,HGQ21,Copper Futures,,,,,,,,2.6135,-.0240,0,2.6375,,,08/30/2019
+HG,09,2021,,HGU21,Copper Futures,,,,,,,,2.6150,-.0240,0,2.6390,,1,08/30/2019
+HG,12,2021,,HGZ21,Copper Futures,,,,,,,,2.6190,-.0240,0,2.6430,,3,08/30/2019
+HG,03,2022,,HGH22,Copper Futures,,,,,,,,2.6220,-.0240,0,2.6460,,,08/30/2019
+HG,05,2022,,HGK22,Copper Futures,,,,,,,,2.6225,-.0240,0,2.6465,,,08/30/2019
+HG,07,2022,,HGN22,Copper Futures,,,,,,,,2.6240,-.0240,0,2.6480,,,08/30/2019
+HG,09,2022,,HGU22,Copper Futures,,,,,,,,2.6245,-.0240,0,2.6485,,,08/30/2019
+HG,12,2022,,HGZ22,Copper Futures,,,,,,,,2.6250,-.0240,0,2.6490,,,08/30/2019
+HG,03,2023,,HGH23,Copper Futures,,,,,,,,2.6255,-.0240,0,2.6495,,,08/30/2019
+HG,05,2023,,HGK23,Copper Futures,,,,,,,,2.6260,-.0240,0,2.6500,,,08/30/2019
+HG,07,2023,,HGN23,Copper Futures,,,,,,,,2.6265,-.0240,0,2.6505,,,08/30/2019
+HG,09,2023,,HGU23,Copper Futures,,,,,,,,2.6270,-.0240,0,2.6510,,,08/30/2019
+HG,12,2023,,HGZ23,Copper Futures,,,,,,,,2.6275,-.0240,0,2.6515,,,08/30/2019
+HG,03,2024,,HGH24,Copper Futures,,,,,,,,2.6280,-.0240,0,2.6520,,,08/30/2019
+HG,05,2024,,HGK24,Copper Futures,,,,,,,,2.6285,-.0240,0,2.6525,,,08/30/2019
+HG,07,2024,,HGN24,Copper Futures,,,,,,,,2.6290,-.0240,0,2.6530,,,08/30/2019
+HG0,09,2019,,HG0U19,Copper Spot Tas,.0000,.0000,,.0000,,.0000,,.0000,UNCH,544,.0000,,,08/30/2019
+HGF,12,2019,,HGFZ19,Copper London Tam,,,,,,,,.0000,0,0,,,,08/30/2019
+HGK,12,2019,,HGKZ19,Copper London Marker,,,,,,,,2.5725,0,0,,,,08/30/2019
+HGS,08,2019,,HGSQ19,Copper Financial Futures,,,,,,,,2.5724,-.0012,0,2.5736,,798,08/30/2019
+HGS,09,2019,,HGSU19,Copper Financial Futures,,,,,,,,2.5338,-.0265,0,2.5603,87,896,08/30/2019
+HGS,10,2019,,HGSV19,Copper Financial Futures,,,,,,,,2.5411,-.0265,0,2.5676,,891,08/30/2019
+HGS,11,2019,,HGSX19,Copper Financial Futures,,,,,,,,2.5475,-.0264,0,2.5739,,658,08/30/2019
+HGS,12,2019,,HGSZ19,Copper Financial Futures,,,,,,,,2.5521,-.0260,0,2.5781,,560,08/30/2019
+HGS,01,2020,,HGSF20,Copper Financial Futures,,,,,,,,2.5583,-.0255,0,2.5838,,1089,08/30/2019
+HGS,02,2020,,HGSG20,Copper Financial Futures,,,,,,,,2.5611,-.0254,0,2.5865,,415,08/30/2019
+HGS,03,2020,,HGSH20,Copper Financial Futures,,,,,,,,2.5619,-.0250,0,2.5869,,415,08/30/2019
+HGS,04,2020,,HGSJ20,Copper Financial Futures,,,,,,,,2.5662,-.0244,0,2.5906,,415,08/30/2019
+HGS,05,2020,,HGSK20,Copper Financial Futures,,,,,,,,2.5686,-.0239,0,2.5925,,415,08/30/2019
+HGS,06,2020,,HGSM20,Copper Financial Futures,,,,,,,,2.5737,-.0235,0,2.5972,,415,08/30/2019
+HGS,07,2020,,HGSN20,Copper Financial Futures,,,,,,,,2.5760,-.0235,0,2.5995,,415,08/30/2019
+HGS,08,2020,,HGSQ20,Copper Financial Futures,,,,,,,,2.5818,-.0235,0,2.6053,,415,08/30/2019
+HGS,09,2020,,HGSU20,Copper Financial Futures,,,,,,,,2.5850,-.0235,0,2.6085,,415,08/30/2019
+HGS,10,2020,,HGSV20,Copper Financial Futures,,,,,,,,2.5900,-.0234,0,2.6134,,415,08/30/2019
+HGS,11,2020,,HGSX20,Copper Financial Futures,,,,,,,,2.5946,-.0226,0,2.6172,,415,08/30/2019
+HGS,12,2020,,HGSZ20,Copper Financial Futures,,,,,,,,2.5955,-.0240,0,2.6195,,415,08/30/2019
+HGS,01,2021,,HGSF21,Copper Financial Futures,,,,,,,,2.6004,-.0240,0,2.6244,,415,08/30/2019
+HGS,02,2021,,HGSG21,Copper Financial Futures,,,,,,,,2.6036,-.0240,0,2.6276,,,08/30/2019
+HGS,03,2021,,HGSH21,Copper Financial Futures,,,,,,,,2.6040,-.0240,0,2.6280,,,08/30/2019
+HGS,04,2021,,HGSJ21,Copper Financial Futures,,,,,,,,2.6048,-.0240,0,2.6288,,,08/30/2019
+HGS,05,2021,,HGSK21,Copper Financial Futures,,,,,,,,2.6083,-.0240,0,2.6323,,,08/30/2019
+HGS,06,2021,,HGSM21,Copper Financial Futures,,,,,,,,2.6106,-.0240,0,2.6346,,,08/30/2019
+HGS,07,2021,,HGSN21,Copper Financial Futures,,,,,,,,2.6121,-.0239,0,2.6360,,,08/30/2019
+HGS,09,2021,,HGSU21,Copper Financial Futures,,,,,,,,2.6150,-.0240,0,2.6390,,,08/30/2019
+HGS,12,2021,,HGSZ21,Copper Financial Futures,,,,,,,,2.6190,-.0240,0,2.6430,,,08/30/2019
+HGS,03,2022,,HGSH22,Copper Financial Futures,,,,,,,,2.6220,-.0240,0,2.6460,,,08/30/2019
+HGS,05,2022,,HGSK22,Copper Financial Futures,,,,,,,,2.6225,-.0240,0,2.6465,,,08/30/2019
+HGS,07,2022,,HGSN22,Copper Financial Futures,,,,,,,,2.6240,-.0240,0,2.6480,,,08/30/2019
+HGS,09,2022,,HGSU22,Copper Financial Futures,,,,,,,,2.6245,-.0240,0,2.6485,,,08/30/2019
+HGS,12,2022,,HGSZ22,Copper Financial Futures,,,,,,,,2.6250,-.0240,0,2.6490,,,08/30/2019
+HGS,03,2023,,HGSH23,Copper Financial Futures,,,,,,,,2.6255,-.0240,0,2.6495,,,08/30/2019
+HGS,05,2023,,HGSK23,Copper Financial Futures,,,,,,,,2.6260,-.0240,0,2.6500,,,08/30/2019
+HGS,07,2023,,HGSN23,Copper Financial Futures,,,,,,,,2.6265,-.0240,0,2.6505,,,08/30/2019
+HGS,09,2023,,HGSU23,Copper Financial Futures,,,,,,,,2.6270,-.0240,0,2.6510,,,08/30/2019
+HGS,12,2023,,HGSZ23,Copper Financial Futures,,,,,,,,2.6275,-.0240,0,2.6515,,,08/30/2019
+HGS,03,2024,,HGSH24,Copper Financial Futures,,,,,,,,2.6280,-.0240,0,2.6520,,,08/30/2019
+HGS,05,2024,,HGSK24,Copper Financial Futures,,,,,,,,2.6285,-.0240,0,2.6525,,,08/30/2019
+HGS,07,2024,,HGSN24,Copper Financial Futures,,,,,,,,2.6290,-.0240,0,2.6530,,,08/30/2019
+HGT,12,2019,,HGTZ19,Copper Tas Futures,.0000,.0000,,-.0010,,-.0005,,.0000,UNCH,2925,.0000,,,08/30/2019
+HGT,03,2020,,HGTH20,Copper Tas Futures,.0000,.0000,,-.0010,,-.0010,,.0000,UNCH,337,.0000,,,08/30/2019
+HGT,05,2020,,HGTK20,Copper Tas Futures,.0000,.0000,,-.0005,,-.0005,,.0000,UNCH,12,.0000,,,08/30/2019
+HGT,07,2020,,HGTN20,Copper Tas Futures,,,,,,,,.0000,UNCH,0,.0000,,,08/30/2019
+LED,09,2019,,LEDU19,Lead Futures,,,,,,,,2348.50,UNCH,0,2348.50,,,08/30/2019
+LED,10,2019,,LEDV19,Lead Futures,,,,,,,,2348.50,UNCH,0,2348.50,,,08/30/2019
+LED,11,2019,,LEDX19,Lead Futures,,,,,,,,2348.50,UNCH,0,2348.50,,,08/30/2019
+LED,12,2019,,LEDZ19,Lead Futures,,,,,,,,2348.50,UNCH,0,2348.50,,,08/30/2019
+LED,01,2020,,LEDF20,Lead Futures,,,,,,,,2348.50,UNCH,0,2348.50,,,08/30/2019
+LED,02,2020,,LEDG20,Lead Futures,,,,,,,,2348.50,UNCH,0,2348.50,,,08/30/2019
+LED,03,2020,,LEDH20,Lead Futures,,,,,,,,2348.50,UNCH,0,2348.50,,,08/30/2019
+LED,04,2020,,LEDJ20,Lead Futures,,,,,,,,2348.50,UNCH,0,2348.50,,,08/30/2019
+LED,05,2020,,LEDK20,Lead Futures,,,,,,,,2348.50,UNCH,0,2348.50,,,08/30/2019
+LED,06,2020,,LEDM20,Lead Futures,,,,,,,,2348.50,UNCH,0,2348.50,,,08/30/2019
+LED,07,2020,,LEDN20,Lead Futures,,,,,,,,2348.50,UNCH,0,2348.50,,,08/30/2019
+LED,08,2020,,LEDQ20,Lead Futures,,,,,,,,2348.50,UNCH,0,2348.50,,,08/30/2019
+MGC,10,2019,,MGCV19,E-micro Gold Futures,1530.1,1535.5,,1519.8,,1522.9,,1523.0,-7.5,1024,1530.5,2031,2526,08/30/2019
+MGC,12,2019,,MGCZ19,E-micro Gold Futures,1538.4,1541.9,,1525.7,,1529.0,B,1529.4,-7.5,26680,1536.9,36314,10121,08/30/2019
+MGC,02,2020,,MGCG20,E-micro Gold Futures,1543.9,1547.8,,1533.0,,1537.3,B,1535.7,-7.3,84,1543.0,97,383,08/30/2019
+MGC,04,2020,,MGCJ20,E-micro Gold Futures,1548.2,1552.7,,1538.3,,1543.2,,1541.0,-7.2,109,1548.2,72,254,08/30/2019
+MGC,06,2020,,MGCM20,E-micro Gold Futures,1555.0,1555.0,,1543.0,,1545.0,,1545.5,-7.1,14,1552.6,25,5623,08/30/2019
+MGC,08,2020,,MGCQ20,E-micro Gold Futures,,,,,,,,1549.7,-7.0,0,1556.7,24,9,08/30/2019
+MGC,10,2020,,MGCV20,E-micro Gold Futures,1553.4,1560.3,,1553.4,,1560.3,,1553.6,-6.9,2,1560.5,,,08/30/2019
+MGC,12,2020,,MGCZ20,E-micro Gold Futures,,,,1559.9,A,1559.9,A,1557.2,-6.8,0,1564.0,,11,08/30/2019
+MGC,02,2021,,MGCG21,E-micro Gold Futures,,,,,,,,1560.4,-6.8,0,1567.2,,,08/30/2019
+MGC,04,2021,,MGCJ21,E-micro Gold Futures,,,,,,,,1563.1,-6.8,0,1569.9,,3,08/30/2019
+MGC,06,2021,,MGCM21,E-micro Gold Futures,,,,,,,,1565.7,-6.8,0,1572.5,2,3,08/30/2019
+MGT,12,2019,,MGTZ19,E-micro Gold Tas,,,,,,,,.0,UNCH,0,.0,,,08/30/2019
+MGT,02,2020,,MGTG20,E-micro Gold Tas,,,,,,,,.0,UNCH,0,.0,,,08/30/2019
+MGT,04,2020,,MGTJ20,E-micro Gold Tas,,,,,,,,.0,UNCH,0,.0,,,08/30/2019
+MJP,08,2019,,MJPQ19,Aluminum Japan Premium (platts) Futures,,,,,,,,87.25,UNCH,0,87.25,,777,08/30/2019
+MJP,09,2019,,MJPU19,Aluminum Japan Premium (platts) Futures,,,,,,,,95.00,UNCH,0,95.00,,777,08/30/2019
+MJP,10,2019,,MJPV19,Aluminum Japan Premium (platts) Futures,,,,,,,,95.00,UNCH,0,95.00,,846,08/30/2019
+MJP,11,2019,,MJPX19,Aluminum Japan Premium (platts) Futures,,,,,,,,95.00,UNCH,0,95.00,,846,08/30/2019
+MJP,12,2019,,MJPZ19,Aluminum Japan Premium (platts) Futures,,,,,,,,95.00,UNCH,0,95.00,,846,08/30/2019
+MJP,01,2020,,MJPF20,Aluminum Japan Premium (platts) Futures,,,,,,,,100.00,UNCH,0,100.00,20,440,08/30/2019
+MJP,02,2020,,MJPG20,Aluminum Japan Premium (platts) Futures,,,,,,,,100.00,UNCH,0,100.00,20,440,08/30/2019
+MJP,03,2020,,MJPH20,Aluminum Japan Premium (platts) Futures,,,,,,,,100.00,UNCH,0,100.00,20,440,08/30/2019
+MJP,04,2020,,MJPJ20,Aluminum Japan Premium (platts) Futures,,,,,,,,100.00,UNCH,0,100.00,20,210,08/30/2019
+MJP,05,2020,,MJPK20,Aluminum Japan Premium (platts) Futures,,,,,,,,100.00,UNCH,0,100.00,20,210,08/30/2019
+MJP,06,2020,,MJPM20,Aluminum Japan Premium (platts) Futures,,,,,,,,100.00,UNCH,0,100.00,20,210,08/30/2019
+MJP,07,2020,,MJPN20,Aluminum Japan Premium (platts) Futures,,,,,,,,100.00,UNCH,0,100.00,20,210,08/30/2019
+MJP,08,2020,,MJPQ20,Aluminum Japan Premium (platts) Futures,,,,,,,,100.00,UNCH,0,100.00,20,210,08/30/2019
+MJP,09,2020,,MJPU20,Aluminum Japan Premium (platts) Futures,,,,,,,,100.00,UNCH,0,100.00,20,210,08/30/2019
+MJP,10,2020,,MJPV20,Aluminum Japan Premium (platts) Futures,,,,,,,,100.00,UNCH,0,100.00,20,210,08/30/2019
+MJP,11,2020,,MJPX20,Aluminum Japan Premium (platts) Futures,,,,,,,,100.00,UNCH,0,100.00,20,210,08/30/2019
+MJP,12,2020,,MJPZ20,Aluminum Japan Premium (platts) Futures,,,,,,,,100.00,UNCH,0,100.00,20,210,08/30/2019
+QC,10,2019,,QCV19,E-mini Copper Futures,2.5460,2.5460,,2.5140,,2.5140,,2.5400,-.0280,3,2.5680,3,16,08/30/2019
+QC,11,2019,,QCX19,E-mini Copper Futures,2.5820,2.5880,,2.5820,,2.5880,,2.5480,-.0260,2,2.5740,1,2,08/30/2019
+QC,12,2019,,QCZ19,E-mini Copper Futures,2.5700,2.5800,,2.5420,,2.5420,,2.5520,-.0260,14,2.5780,28,51,08/30/2019
+QC,01,2020,,QCF20,E-mini Copper Futures,,,,,,,,2.5580,-.0260,0,2.5840,,,08/30/2019
+QC,02,2020,,QCG20,E-mini Copper Futures,,,,,,,,2.5620,-.0240,0,2.5860,,,08/30/2019
+QC,03,2020,,QCH20,E-mini Copper Futures,,,,,,,,2.5620,-.0240,0,2.5860,,,08/30/2019
+QC,04,2020,,QCJ20,E-mini Copper Futures,,,,,,,,2.5660,-.0240,0,2.5900,,,08/30/2019
+QC,05,2020,,QCK20,E-mini Copper Futures,,,,,,,,2.5680,-.0240,0,2.5920,,,08/30/2019
+QC,06,2020,,QCM20,E-mini Copper Futures,,,,,,,,2.5740,-.0240,0,2.5980,,,08/30/2019
+QC,07,2020,,QCN20,E-mini Copper Futures,,,,,,,,2.5760,-.0240,0,2.6000,,,08/30/2019
+QC,08,2020,,QCQ20,E-mini Copper Futures,,,,,,,,2.5820,-.0240,0,2.6060,,,08/30/2019
+QC,09,2020,,QCU20,E-mini Copper Futures,,,,,,,,2.5840,-.0240,0,2.6080,,,08/30/2019
+QC,10,2020,,QCV20,E-mini Copper Futures,,,,,,,,2.5900,-.0240,0,2.6140,,,08/30/2019
+QC,11,2020,,QCX20,E-mini Copper Futures,,,,,,,,2.5940,-.0240,0,2.6180,,,08/30/2019
+QC,12,2020,,QCZ20,E-mini Copper Futures,,,,,,,,2.5960,-.0240,0,2.6200,,,08/30/2019
+QC,01,2021,,QCF21,E-mini Copper Futures,,,,,,,,2.6000,-.0240,0,2.6240,,,08/30/2019
+QC,02,2021,,QCG21,E-mini Copper Futures,,,,,,,,2.6040,-.0240,0,2.6280,,,08/30/2019
+QC,03,2021,,QCH21,E-mini Copper Futures,,,,,,,,2.6040,-.0240,0,2.6280,,,08/30/2019
+QC,04,2021,,QCJ21,E-mini Copper Futures,,,,,,,,2.6040,-.0240,0,2.6280,,,08/30/2019
+QC,05,2021,,QCK21,E-mini Copper Futures,,,,,,,,2.6080,-.0240,0,2.6320,,,08/30/2019
+QC,06,2021,,QCM21,E-mini Copper Futures,,,,,,,,2.6100,-.0240,0,2.6340,,,08/30/2019
+QC,07,2021,,QCN21,E-mini Copper Futures,,,,,,,,2.6120,-.0240,0,2.6360,,,08/30/2019
+QC,08,2021,,QCQ21,E-mini Copper Futures,,,,,,,,2.6140,-.0240,0,2.6380,,,08/30/2019
+QC,09,2021,,QCU21,E-mini Copper Futures,,,,,,,,2.6160,-.0240,0,2.6400,,,08/30/2019
+QC,12,2021,,QCZ21,E-mini Copper Futures,,,,,,,,2.6200,-.0240,0,2.6440,,,08/30/2019
+QC,03,2022,,QCH22,E-mini Copper Futures,,,,,,,,2.6220,-.0240,0,2.6460,,,08/30/2019
+QC,05,2022,,QCK22,E-mini Copper Futures,,,,,,,,2.6220,-.0240,0,2.6460,,,08/30/2019
+QC,07,2022,,QCN22,E-mini Copper Futures,,,,,,,,2.6240,-.0240,0,2.6480,,,08/30/2019
+QC,09,2022,,QCU22,E-mini Copper Futures,,,,,,,,2.6240,-.0240,0,2.6480,,,08/30/2019
+QC,12,2022,,QCZ22,E-mini Copper Futures,,,,,,,,2.6260,-.0240,0,2.6500,,,08/30/2019
+QC,03,2023,,QCH23,E-mini Copper Futures,,,,,,,,2.6260,-.0240,0,2.6500,,,08/30/2019
+QC,05,2023,,QCK23,E-mini Copper Futures,,,,,,,,2.6260,-.0240,0,2.6500,,,08/30/2019
+QC,07,2023,,QCN23,E-mini Copper Futures,,,,,,,,2.6260,-.0240,0,2.6500,,,08/30/2019
+QC,09,2023,,QCU23,E-mini Copper Futures,,,,,,,,2.6280,-.0240,0,2.6520,,,08/30/2019
+QC,12,2023,,QCZ23,E-mini Copper Futures,,,,,,,,2.6280,-.0240,0,2.6520,,,08/30/2019
+QC,03,2024,,QCH24,E-mini Copper Futures,,,,,,,,2.6280,-.0240,0,2.6520,,,08/30/2019
+QC,05,2024,,QCK24,E-mini Copper Futures,,,,,,,,2.6280,-.0240,0,2.6520,,,08/30/2019
+QC,07,2024,,QCN24,E-mini Copper Futures,,,,,,,,2.6300,-.0240,0,2.6540,,,08/30/2019
+QI,12,2019,,QIZ19,E-mini Silver Futures,18.3750,18.5625,B,18.1750,,18.4625,B,18.3420,+.0190,269,18.3230,421,366,08/30/2019
+QI,01,2020,,QIF20,E-mini Silver Futures,,,,,,,,18.3860,+.0240,0,18.3620,10,11,08/30/2019
+QI,03,2020,,QIH20,E-mini Silver Futures,,18.6250,B,18.3625,A,18.5250,B,18.4670,+.0190,0,18.4480,,4,08/30/2019
+QI,05,2020,,QIK20,E-mini Silver Futures,18.6375,18.6375,,18.6375,,18.6375,,18.5350,+.0240,1,18.5110,1,2,08/30/2019
+QI,07,2020,,QIN20,E-mini Silver Futures,,,,,,,,18.5860,+.0260,0,18.5600,,2,08/30/2019
+QI,09,2020,,QIU20,E-mini Silver Futures,,,,,,,,18.6520,+.0260,0,18.6260,,2,08/30/2019
+QI,12,2020,,QIZ20,E-mini Silver Futures,,,,,,,,18.7400,+.0280,0,18.7120,,4,08/30/2019
+QI,01,2021,,QIF21,E-mini Silver Futures,,,,,,,,18.7720,+.0280,0,18.7440,,,08/30/2019
+QI,03,2021,,QIH21,E-mini Silver Futures,,,,,,,,18.8230,+.0280,0,18.7950,,,08/30/2019
+QI,05,2021,,QIK21,E-mini Silver Futures,,,,,,,,18.8770,+.0280,0,18.8490,,,08/30/2019
+QI,07,2021,,QIN21,E-mini Silver Futures,,,,,,,,18.9310,+.0280,0,18.9030,,,08/30/2019
+QO,10,2019,,QOV19,E-mini Gold Futures,1529.75,1535.00,,1521.50,,1524.25,,1523.00,-7.50,234,1530.50,274,609,08/30/2019
+QO,12,2019,,QOZ19,E-mini Gold Futures,1538.00,1541.75,,1525.75,,1529.25,,1529.40,-7.50,2203,1536.90,2034,871,08/30/2019
+QO,02,2020,,QOG20,E-mini Gold Futures,1539.25,1546.25,,1536.25,A,1537.00,B,1535.70,-7.30,28,1543.00,31,33,08/30/2019
+QO,04,2020,,QOJ20,E-mini Gold Futures,,,,,,,,1541.00,-7.20,0,1548.20,,7,08/30/2019
+QO,06,2020,,QOM20,E-mini Gold Futures,,,,,,,,1545.50,-7.10,0,1552.60,2,6,08/30/2019
+QO,08,2020,,QOQ20,E-mini Gold Futures,,,,,,,,1549.70,-7.00,0,1556.70,,,08/30/2019
+QO,10,2020,,QOV20,E-mini Gold Futures,,,,,,,,1553.60,-6.90,0,1560.50,,,08/30/2019
+QO,12,2020,,QOZ20,E-mini Gold Futures,,,,,,,,1557.20,-6.80,0,1564.00,,2,08/30/2019
+QO,02,2021,,QOG21,E-mini Gold Futures,,,,,,,,1560.40,-6.80,0,1567.20,,,08/30/2019
+QO,04,2021,,QOJ21,E-mini Gold Futures,,,,,,,,1563.10,-6.80,0,1569.90,,1,08/30/2019
+QO,06,2021,,QOM21,E-mini Gold Futures,,,,,,,,1565.70,-6.80,0,1572.50,,,08/30/2019
+SI,09,2019,,SIU19,Silver Futures,18.195,18.410,,18.020,,18.315,,18.185,+.018,1479,18.167,22272,6724,08/30/2019
+SI,10,2019,,SIV19,Silver Futures,18.260,18.470,B,18.070,,18.365,,18.244,+.019,1244,18.225,2491,1179,08/30/2019
+SI,11,2019,,SIX19,Silver Futures,18.420,18.420,,18.405,,18.405,,18.293,+.019,36,18.274,,,08/30/2019
+SI,12,2019,,SIZ19,Silver Futures,18.365,18.575,,18.165,,18.480,,18.342,+.019,116225,18.323,161555,174367,08/30/2019
+SI,01,2020,,SIF20,Silver Futures,18.525,18.555,,18.345,,18.345,,18.386,+.024,137,18.362,12,51,08/30/2019
+SI,03,2020,,SIH20,Silver Futures,18.465,18.695,,18.295,,18.580,,18.467,+.019,2372,18.448,3111,27358,08/30/2019
+SI,05,2020,,SIK20,Silver Futures,18.380,18.750,,18.380,,18.650,,18.535,+.024,890,18.511,656,5900,08/30/2019
+SI,07,2020,,SIN20,Silver Futures,18.430,18.785,B,18.430,,18.660,,18.586,+.026,660,18.560,1073,6538,08/30/2019
+SI,09,2020,,SIU20,Silver Futures,,18.845,B,18.615,A,18.615,A,18.652,+.026,0,18.626,47,720,08/30/2019
+SI,12,2020,,SIZ20,Silver Futures,18.655,18.890,,18.655,,18.840,,18.740,+.028,100,18.712,348,1233,08/30/2019
+SI,01,2021,,SIF21,Silver Futures,,,,,,,,18.772,+.028,0,18.744,,7,08/30/2019
+SI,03,2021,,SIH21,Silver Futures,,,,,,,,18.823,+.028,0,18.795,,1,08/30/2019
+SI,05,2021,,SIK21,Silver Futures,,,,,,,,18.877,+.028,0,18.849,,2,08/30/2019
+SI,07,2021,,SIN21,Silver Futures,,,,,,,,18.931,+.028,0,18.903,,2,08/30/2019
+SI,12,2021,,SIZ21,Silver Futures,19.385,19.385,,19.385,,19.385,,19.055,+.028,1,19.027,,46,08/30/2019
+SI,07,2022,,SIN22,Silver Futures,19.550,19.550,,19.500,A,19.500,A,19.215,+.028,1,19.187,,1,08/30/2019
+SI,12,2022,,SIZ22,Silver Futures,,,,,,,,19.321,+.028,0,19.293,,43,08/30/2019
+SI,07,2023,,SIN23,Silver Futures,,,,,,,,19.471,+.028,0,19.443,,1,08/30/2019
+SI,12,2023,,SIZ23,Silver Futures,,,,,,,,19.567,+.028,0,19.539,7,4,08/30/2019
+SI,07,2024,,SIN24,Silver Futures,,,,,,,,19.749,+.028,0,19.721,,,08/30/2019
+SIL,09,2019,,SILU19,1s000 Oz. Silver Futures,18.320,18.380,,18.170,A,18.350,,18.185,+.018,116,18.167,3106,898,08/30/2019
+SIL,10,2019,,SILV19,1s000 Oz. Silver Futures,18.190,18.450,,18.150,,18.360,,18.244,+.019,96,18.225,245,124,08/30/2019
+SIL,11,2019,,SILX19,1s000 Oz. Silver Futures,,,,,,,,18.293,+.019,0,18.274,,,08/30/2019
+SIL,12,2019,,SILZ19,1s000 Oz. Silver Futures,18.350,18.570,B,18.170,,18.470,,18.342,+.019,1805,18.323,3389,1422,08/30/2019
+SIL,01,2020,,SILF20,1s000 Oz. Silver Futures,,,,,,,,18.386,+.024,0,18.362,1,9,08/30/2019
+SIL,03,2020,,SILH20,1s000 Oz. Silver Futures,18.410,18.690,B,18.300,A,18.570,B,18.467,+.019,42,18.448,16,85,08/30/2019
+SIL,05,2020,,SILK20,1s000 Oz. Silver Futures,,18.750,B,18.360,A,18.640,B,18.535,+.024,0,18.511,5,14,08/30/2019
+SIL,07,2020,,SILN20,1s000 Oz. Silver Futures,,,,,,,,18.586,+.026,0,18.560,,3,08/30/2019
+SIT,12,2019,,SITZ19,Silver Tas Futures,.000,.000,,-.010,,-.003,,.000,UNCH,804,.000,,,08/30/2019
+SIT,03,2020,,SITH20,Silver Tas Futures,,,,-.010,,-.004,,.000,UNCH,0,.000,,,08/30/2019
+SIT,05,2020,,SITK20,Silver Tas Futures,,,,-.010,,-.010,,.000,UNCH,0,.000,,,08/30/2019
+SIT,07,2020,,SITN20,Silver Tas Futures,,,,,,,,.000,UNCH,0,.000,,,08/30/2019
+SSP,09,2019,03,SSPU19 D03,Sep 19 London Spot Silver,,,,,,,,18.235,UNCH,0,18.235,,,08/30/2019
+SSP,09,2019,05,SSPU19 D05,Sep 19 London Spot Silver,,,,,,,,18.235,UNCH,0,18.235,,,08/30/2019
+ZNC,09,2019,,ZNCU19,Zinc Futures,,,,,,,,2530.0,UNCH,0,2530.0,,,08/30/2019
+ZNC,10,2019,,ZNCV19,Zinc Futures,,,,,,,,2520.0,UNCH,0,2520.0,,,08/30/2019
+ZNC,11,2019,,ZNCX19,Zinc Futures,,,,,,,,2520.0,UNCH,0,2520.0,,,08/30/2019
+ZNC,12,2019,,ZNCZ19,Zinc Futures,,,,,,,,2520.0,UNCH,0,2520.0,,,08/30/2019
+ZNC,01,2020,,ZNCF20,Zinc Futures,,,,,,,,2520.0,UNCH,0,2520.0,,,08/30/2019
+ZNC,02,2020,,ZNCG20,Zinc Futures,,,,,,,,2520.0,UNCH,0,2520.0,,,08/30/2019
+ZNC,03,2020,,ZNCH20,Zinc Futures,,,,,,,,2520.0,UNCH,0,2520.0,,,08/30/2019
+ZNC,04,2020,,ZNCJ20,Zinc Futures,,,,,,,,2520.0,UNCH,0,2520.0,,,08/30/2019
+ZNC,05,2020,,ZNCK20,Zinc Futures,,,,,,,,2520.0,UNCH,0,2520.0,,,08/30/2019
+ZNC,06,2020,,ZNCM20,Zinc Futures,,,,,,,,2520.0,UNCH,0,2520.0,,,08/30/2019
+ZNC,07,2020,,ZNCN20,Zinc Futures,,,,,,,,2520.0,UNCH,0,2520.0,,,08/30/2019
+ZNC,08,2020,,ZNCQ20,Zinc Futures,,,,,,,,2520.0,UNCH,0,2520.0,,,08/30/2019

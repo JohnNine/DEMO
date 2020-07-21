@@ -1,0 +1,64 @@
+{
+  "name": "warframe-worldstate-parser",
+  "version": "2.8.0",
+  "description": "An Open parser for Warframe's Worldstate in Javascript",
+  "types": "./types/worldstate.d.ts",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "json-fetch-cache": "^1.2.1",
+    "node-fetch": "^2.6.0",
+    "node-md-config": "^2.0.1",
+    "right-pad": "^1.0.1",
+    "warframe-worldstate-data": "^1.0.12"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.3",
+    "chai": "^4.2.0",
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "greenkeeper-lockfile": "^1.15.1",
+    "ink-docstrap": "^1.3.2",
+    "jsdoc": "^3.6.3",
+    "mocha": "^6.2.2",
+    "rewire": "^4.0.0",
+    "sinon": "^7.5.0",
+    "sinon-chai": "^3.3.0",
+    "tsd-jsdoc": "^2.4.0"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "scripts": {
+    "test": "npx nyc --reporter=html --reporter=text mocha --exit",
+    "coverage": "npm test && npx nyc report --reporter=text-lcov | npx coveralls",
+    "build-docs": "npx jsdoc -c jsdoc-config.json -d docs",
+    "lint": "npx eslint main.js lib/ test/",
+    "lint:fix": "npx eslint main.js lib/ test/ --fix"
+  },
+  "files": [
+    "lib",
+    "main.js",
+    "LICENSE"
+  ],
+  "repository": "warframe-community-developers/warframe-worldstate-parser",
+  "keywords": [
+    "warframe-worldstate",
+    "warframe"
+  ],
+  "author": "aliasfalse",
+  "contributors": [
+    "nspacestd (https://github.com/nspacestd)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wfcd/warframe-worldstate-parser/issues"
+  },
+  "homepage": "https://github.com/wfcd/warframe-worldstate-parser#readme",
+  "release": {
+    "branch": "master"
+  }
+}
